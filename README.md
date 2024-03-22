@@ -1,2 +1,4 @@
-# my_money
-Ajustes atividade 3
+# my-money
+
+## Configuração do projeto:
+![Primeiro](./images/1st.png)
